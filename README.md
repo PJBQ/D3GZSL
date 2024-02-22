@@ -1,6 +1,6 @@
 # D^3^GZSL[Updating]
 
-**arxiv : ** https://arxiv.org/pdf/2402.11424.pdf
+**arxiv:** https://arxiv.org/pdf/2402.11424.pdf
 
 **Slide**
 
